@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Srujan-A
-- 👀 I’m interested in Machine Learning and Automation
+- 👀 I’m interested in Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me srujan.a28397@gmail.com
